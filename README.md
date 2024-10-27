@@ -3,7 +3,7 @@
 ## Description
 Need to build a vehicle, well you've come to the right place! Use this application to help you build a vehicle.
 
-<a href="">Walkthrough Video</a>
+<a href="https://drive.google.com/file/d/1zZ7i0KgUzf3pEUsAhDDQHhnqIdnZP6TI/view?usp=drive_link">Walkthrough Video</a>
 
 ## Table of Contents
 * [Installation](#installation)
