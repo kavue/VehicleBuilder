@@ -17,7 +17,7 @@ Need to build a vehicle, well you've come to the right place! Use this applicati
 The inquirer dependency is required. To install it, run the following command in your terminal: npm i inquirer.
 
 ## Usage
-To build a vehicle, run the following command in your terminal: node index.js.
+To build a vehicle, run the following command in your terminal: npm run start.
 
 ## License
 This application is not licensed. 
